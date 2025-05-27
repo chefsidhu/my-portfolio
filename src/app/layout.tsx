@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: "Abhi Sidhu | Full Stack Developer Portfolio",
   description: "Full Stack Developer Portfolio showcasing my projects and skills",
   keywords: ["Full Stack Developer", "Web Development", "React", "Next.js", "Portfolio"],
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({
